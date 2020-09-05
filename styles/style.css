@@ -23,7 +23,7 @@
 
 .logo{
   width: 183px;
-  height: 32px;  
+  height: 32px;
   top: 30px;
   left: 64px;
   position: absolute;
@@ -100,7 +100,7 @@
 }
 
 .two-columns {
-  display: flex;  
+  display: flex;
   justify-content: space-between;
   width: 80%;
 }
@@ -179,7 +179,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin: 0 auto ;
+  margin: 0 auto;
 }
 
 .cell_size_l {
@@ -230,7 +230,7 @@
   width: 648px;
   text-align: center;
   line-height: 1.15;
-  font-size: 120px;  
+  font-size: 120px;
   margin: 100px auto 70px;
   z-index: 2;
 }
@@ -249,7 +249,7 @@
   position: absolute;
   right: 48px;
   top: 50%;
-  text-decoration: none; 
+  text-decoration: none;
   z-index: 2;
 }
 
@@ -314,7 +314,7 @@
 }
 
 .footer__columns {
-  display: flex;  
+  display: flex;
   width: 90%;
   min-height: 350px;
   justify-content: space-between; 
