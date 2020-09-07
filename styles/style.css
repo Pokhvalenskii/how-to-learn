@@ -19,7 +19,6 @@
   flex-direction: column;
   justify-content: center;
   z-index: 0;
-  /* выше установили ограничения для секции */
 }
 
 .logo_place_header {
@@ -74,7 +73,6 @@
   color: #2f80ed;
 }
 
-/* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
   color: white;
@@ -145,7 +143,6 @@
   font-weight: bold;
 }
 
-
 .section-subtitle {
   display: flex;
   justify-content: center;
@@ -168,10 +165,6 @@
   margin-top: 60px;
   width: 250px;
 }
-/* .table__cell_size_l {
-  margin-top: 60px;
-  width: 250px;
-} */
 
 .table__heading {
   margin-bottom: 20px;
@@ -297,6 +290,7 @@
   font-size: 18px;
   line-height: 25px;
   font-style: normal;
+  margin: 18px 0;
 }
 
 .logo_place_footer {
@@ -310,6 +304,7 @@
   flex-direction: column;
   justify-content: space-between;
   flex-basis: 711px;
+
 }
 
 .footer__column-heading {
