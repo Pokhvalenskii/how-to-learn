@@ -1,6 +1,5 @@
 .video {
   /* border: 1px dashed red;   */
-  padding-bottom: 100px;
   display: flex;
   flex-direction: column;
   align-items: center;

@@ -2,9 +2,9 @@
   /* border: dashed rgb(0, 255, 149) 1px; */
   width: 240px;
   text-align: center;
-  margin-right: 100px; 
+  margin-right: 100px;
 }
 
-.card__item:nth-last-of-type(3) {
+.card__item:nth-of-type(3n) {
   margin: 0;
 }
